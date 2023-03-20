@@ -44,8 +44,7 @@ h1{
 .title-image{
     width: 60%;
     transform: rotate(25deg);
-    position: relative;
-    top: 40%;
+   
     
     
 }
@@ -55,7 +54,7 @@ h1{
 #features{
     padding: 7% 15%;
     background-color: white;
-    position: relative;
+    
 
 }
 .feature-box{
